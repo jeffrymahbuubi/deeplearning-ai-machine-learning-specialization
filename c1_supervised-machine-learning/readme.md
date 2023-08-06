@@ -1,5 +1,7 @@
 ## [Superviszed Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
 
+![Coursera SPGA34LYPXZB](c1.jpg)
+
 ### What you will learn
 
 - Build machine learning models in Python using popular machine learning libraries NumPy & scikit-learn
