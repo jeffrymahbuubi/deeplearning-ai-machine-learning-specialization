@@ -1,4 +1,4 @@
-## [Superviszed Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
+## [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
 
 ![Coursera SPGA34LYPXZB](c1.jpg)
 
