@@ -1,5 +1,7 @@
 # [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 
+![machine-learning](machine-learning.jpg)
+
 <br>
 
 - This repository written for reference and self-documentation purpose
